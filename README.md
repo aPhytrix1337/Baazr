@@ -48,4 +48,5 @@ Before running Baazr, ensure you have the following:
    Add the nlohmann/json header-only library.
 
 3. Build the project:
+   ```bash
    Open the project in Visual Studio or your preferred IDE and build the project using C++17 or higher.
